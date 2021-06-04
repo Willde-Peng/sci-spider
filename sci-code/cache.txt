@@ -1,0 +1,13 @@
+{
+"https://sci-hub.do/10.1016/j.apergo.2020.103286": "https://sci-hub.do/downloads/2020-12-01/29/joshi2021.pdf?download=true",
+"https://sci-hub.do/10.1109/TGRS.2008.2010457": "https:https://moscow.sci-hub.do/1442/665713468374bd1cfdbd5f7ddb844028/berni2009.pdf?download=true",
+"https://sci-hub.do/10.1038/s41586-018-0411-9": "https:https://twin.sci-hub.do/7073/812856d105bf501729972d84de0e2fe3/song2018.pdf?download=true",
+"https://sci-hub.do/10.1007/s11119-012-9274-5": "https:https://zero.sci-hub.do/1833/f73815b9a1a8c2f1f9b06134f2afc66f/zhang2012.pdf?download=true",
+"https://sci-hub.do/10.1016/S0034-4257(02)00078-0": "https:https://zero.sci-hub.do/425/60658a4970d799c637283b2403e5c04f/friedl2002.pdf?download=true",
+"https://sci-hub.do/10.1109/LGRS.2017.2681128": "https:https://twin.sci-hub.do/6337/4c086565efa92165f25c4546ed942a6c/kussul2017.pdf?download=true",
+"https://sci-hub.do/10.1016/j.inffus.2016.03.003": "https:https://zero.sci-hub.do/4995/78b729c27a7503dce6409d0b7d5f615a/ghassemian2016.pdf?download=true",
+"https://sci-hub.do/10.1111/j.1466-8238.2010.00584.x": "https:https://zero.sci-hub.do/936/4cab7ed8e5fcc846d7c5b342b40d51d7/giri2010.pdf?download=true",
+"https://sci-hub.do/10.1016/j.biosystemseng.2012.08.009": "https:https://twin.sci-hub.do/6506/96d08ce3e546a8286737b4f7565f2db7/mulla2013.pdf?download=true",
+"https://sci-hub.do/10.1016/j.ecolecon.2007.03.004": "https:https://zero.sci-hub.do/1323/07e81bee2c3c22f511eda072ef6d7bb9/barrios2007.pdf?download=true",
+"https://sci-hub.do/10.1016/j.rse.2003.12.013": "https:https://zero.sci-hub.do/383/92a8695525c453c0bc7d206b05e3d706/haboudane2004.pdf?download=true"
+}
